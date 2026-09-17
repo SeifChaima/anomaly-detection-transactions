@@ -1,7 +1,6 @@
 # Détection d'anomalies dans des ordres de transaction — Pipeline RPA → ML → LLM
 
-Projet d'entraînement personnel réalisé en préparation d'un entretien pour un
-stage/alternance en IA appliquée à la gestion d'actifs, au sein d'une équipe
+Projet d'entraînement personnel  appliqué à la gestion d'actifs, au sein d'une équipe
 Risques & Conformité.
 
 ## Contexte
