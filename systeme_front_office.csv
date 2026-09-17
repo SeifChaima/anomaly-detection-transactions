@@ -1,0 +1,227 @@
+id_ordre,date_passage,client,gestionnaire,instrument,sens,quantite,prix_unitaire
+ORD1080,2026-06-13 11:40,Client_D,Sophie L.,OPCVM Actions Europe,Achat,90,291.67
+ORD1217,2026-06-21 15:41,Client_E,Julien P.,Action LVMH,Vente,414,31.07
+ORD1193,2026-07-11 11:29,Client_B,Sophie L.,ETF MSCI World,Achat,82,88.45
+ORD1001,2026-06-04 16:12,Client_G,Julien P.,ETF MSCI World,Vente,424,33.33
+ORD1216,2026-07-29 18:34,Client_H,Julien P.,Obligation Etat FR,Vente,149,56.35
+ORD1139,2026-06-17 14:34,Client_D,Sophie L.,Action LVMH,Vente,451,71.25
+ORD1041,2026-08-05 14:43,Client_F,Marie D.,Action LVMH,Vente,101,133.11
+ORD1090,2026-07-27 08:13,Client_E,Julien P.,OPCVM Obligataire EUR,Vente,460,32.88
+ORD1189,2026-07-14 17:02,Client_A,Marie D.,Action LVMH,Vente,343,66.91
+ORD1210,2026-07-08 08:18,Client_B,Sophie L.,ETF MSCI World,Vente,392,21.88
+ORD1076,2026-08-02 09:55,Client_A,Sophie L.,ETF MSCI World,Vente,235,103.4
+ORD1100,2026-06-12 14:06,Client_B,Antoine R.,Action TotalEnergies,Vente,472,14.87
+ORD1064,2026-07-19 14:45,Client_D,Marie D.,Action Sanofi,Achat,62,509.84
+ORD1070,2026-07-06 16:00,Client_D,Marie D.,Action TotalEnergies,Vente,260,115.18
+ORD1096,2026-07-23 08:20,Client_H,Antoine R.,ETF MSCI World,Achat,263,43.16
+ORD1007,2026-08-11 11:43,Client_F,Marie D.,Action TotalEnergies,Achat,422,28.58
+ORD9006,2026-08-05 09:45,Client_C,Sophie L.,Action TotalEnergies,Achat,100,60.0
+ORD1099,2026-08-08 14:20,Client_H,Marie D.,Action Sanofi,Achat,130,77.49
+ORD1195,2026-07-30 15:56,Client_E,Antoine R.,Action LVMH,Achat,493,27.21
+ORD1105,2026-07-01 14:36,Client_F,Sophie L.,OPCVM Actions Europe,Vente,21,738.76
+ORD1071,2026-07-31 18:45,Client_H,Antoine R.,Obligation Etat FR,Achat,57,154.11
+ORD1156,2026-07-19 10:10,Client_C,Julien P.,OPCVM Actions Europe,Vente,32,175.36
+ORD1013,2026-06-23 16:58,Client_B,Sophie L.,Obligation Etat FR,Achat,88,93.32
+ORD1062,2026-06-03 17:09,Client_D,Julien P.,ETF MSCI World,Achat,298,115.93
+ORD1110,2026-07-14 09:29,Client_B,Julien P.,Obligation Etat FR,Achat,450,20.57
+ORD1194,2026-07-24 11:55,Client_C,Sophie L.,Action Sanofi,Vente,107,60.11
+ORD1025,2026-07-25 16:42,Client_H,Julien P.,Action TotalEnergies,Vente,121,93.94
+ORD1072,2026-07-02 12:42,Client_F,Antoine R.,Action Sanofi,Vente,227,68.77
+ORD1021,2026-07-23 15:55,Client_A,Marie D.,Action LVMH,Vente,382,63.57
+ORD1117,2026-07-16 08:25,Client_E,Julien P.,Action LVMH,Vente,56,266.51
+ORD1200,2026-07-17 10:12,Client_G,Marie D.,Action LVMH,Achat,80,167.08
+ORD1102,2026-06-23 09:39,Client_G,Julien P.,ETF MSCI World,Achat,128,94.71
+ORD1037,2026-06-27 18:15,Client_B,Sophie L.,Obligation Etat FR,Vente,327,29.09
+ORD1161,2026-06-29 15:56,Client_F,Marie D.,ETF MSCI World,Achat,212,61.48
+ORD1181,2026-08-02 11:07,Client_C,Marie D.,ETF MSCI World,Achat,470,13.44
+ORD1208,2026-08-11 12:14,Client_E,Sophie L.,OPCVM Actions Europe,Achat,363,41.77
+ORD1081,2026-06-21 08:26,Client_H,Antoine R.,OPCVM Obligataire EUR,Achat,128,68.44
+ORD1206,2026-07-31 08:45,Client_C,Julien P.,Action Sanofi,Vente,349,16.53
+ORD1148,2026-06-25 13:38,Client_H,Julien P.,Action LVMH,Vente,62,173.59
+ORD1045,2026-07-08 16:08,Client_D,Antoine R.,OPCVM Actions Europe,Vente,356,90.47
+ORD1074,2026-08-08 10:12,Client_D,Antoine R.,OPCVM Obligataire EUR,Vente,61,544.22
+ORD1061,2026-08-09 08:22,Client_D,Marie D.,Obligation Etat FR,Achat,396,60.11
+ORD1150,2026-07-17 13:58,Client_E,Antoine R.,ETF MSCI World,Vente,357,40.79
+ORD1201,2026-07-29 10:38,Client_C,Sophie L.,Action Sanofi,Vente,93,59.89
+ORD1009,2026-06-19 12:08,Client_D,Sophie L.,OPCVM Actions Europe,Vente,469,64.56
+ORD1212,2026-06-30 08:06,Client_G,Sophie L.,OPCVM Actions Europe,Vente,61,216.5
+ORD1209,2026-07-15 16:59,Client_E,Sophie L.,Action LVMH,Vente,468,35.69
+ORD9001,2026-06-21 14:10,Client_B,Julien P.,Action LVMH,Achat,4000,620.0
+ORD1043,2026-06-06 14:00,Client_D,Sophie L.,ETF MSCI World,Achat,495,63.08
+ORD1097,2026-08-15 13:55,Client_B,Antoine R.,Action LVMH,Vente,17,553.97
+ORD1089,2026-06-01 18:55,Client_H,Antoine R.,Action LVMH,Achat,275,32.88
+ORD1178,2026-07-20 17:02,Client_C,Antoine R.,OPCVM Obligataire EUR,Vente,237,27.14
+ORD1036,2026-06-05 13:37,Client_C,Antoine R.,Action TotalEnergies,Achat,167,32.96
+ORD1046,2026-08-12 12:25,Client_A,Sophie L.,OPCVM Obligataire EUR,Achat,230,125.73
+ORD1126,2026-06-15 18:41,Client_D,Antoine R.,ETF MSCI World,Achat,221,124.03
+ORD1204,2026-08-07 18:46,Client_G,Julien P.,Obligation Etat FR,Achat,26,487.36
+ORD1136,2026-07-27 14:17,Client_D,Marie D.,OPCVM Obligataire EUR,Vente,66,405.44
+ORD1032,2026-06-02 18:52,Client_E,Marie D.,Action TotalEnergies,Vente,69,234.73
+ORD1127,2026-07-24 09:20,Client_G,Sophie L.,OPCVM Actions Europe,Vente,201,72.38
+ORD1003,2026-07-15 17:16,Client_A,Antoine R.,Action Sanofi,Achat,482,51.23
+ORD1049,2026-06-04 08:15,Client_H,Marie D.,ETF MSCI World,Vente,463,21.75
+ORD1165,2026-07-24 18:50,Client_H,Marie D.,Action LVMH,Vente,315,30.83
+ORD1109,2026-06-17 16:56,Client_F,Sophie L.,Obligation Etat FR,Achat,141,107.67
+ORD1027,2026-06-08 16:05,Client_C,Marie D.,Action Sanofi,Achat,355,18.76
+ORD1091,2026-07-01 10:19,Client_A,Antoine R.,Action LVMH,Achat,440,68.72
+ORD1196,2026-06-28 17:22,Client_A,Marie D.,OPCVM Obligataire EUR,Vente,315,94.99
+ORD1219,2026-06-18 15:20,Client_D,Marie D.,OPCVM Obligataire EUR,Vente,130,220.58
+ORD1141,2026-07-22 08:20,Client_C,Antoine R.,Obligation Etat FR,Vente,55,103.12
+ORD1085,2026-07-12 17:16,Client_A,Marie D.,Action TotalEnergies,Achat,401,69.18
+ORD1006,2026-06-10 17:40,Client_C,Julien P.,Action TotalEnergies,Vente,204,25.9
+ORD1147,2026-07-18 12:04,Client_B,Antoine R.,ETF MSCI World,Achat,240,41.93
+ORD1142,2026-07-26 17:25,Client_B,Antoine R.,Obligation Etat FR,Vente,391,20.7
+ORD1012,2026-07-05 18:21,Client_B,Sophie L.,ETF MSCI World,Achat,242,28.63
+ORD1207,2026-06-23 15:58,Client_F,Sophie L.,OPCVM Actions Europe,Vente,322,40.19
+ORD1026,2026-08-09 08:47,Client_F,Marie D.,Action LVMH,Vente,267,56.96
+ORD1202,2026-07-09 17:21,Client_H,Sophie L.,ETF MSCI World,Achat,198,45.08
+ORD1199,2026-07-06 17:43,Client_B,Julien P.,Action LVMH,Vente,201,48.1
+ORD1166,2026-08-13 11:45,Client_C,Sophie L.,ETF MSCI World,Achat,324,16.9
+ORD1004,2026-07-17 17:12,Client_B,Marie D.,OPCVM Actions Europe,Achat,405,19.55
+ORD1145,2026-08-03 15:48,Client_H,Sophie L.,Obligation Etat FR,Vente,87,107.37
+ORD1024,2026-07-22 08:10,Client_G,Marie D.,ETF MSCI World,Vente,484,28.33
+ORD1035,2026-07-27 16:45,Client_G,Marie D.,Action LVMH,Achat,493,28.81
+ORD1173,2026-07-27 14:21,Client_C,Antoine R.,OPCVM Actions Europe,Vente,198,34.38
+ORD1104,2026-07-09 18:27,Client_E,Antoine R.,Obligation Etat FR,Vente,111,151.45
+ORD1058,2026-07-22 10:53,Client_H,Julien P.,Action Sanofi,Achat,474,19.34
+ORD1031,2026-07-02 13:18,Client_C,Antoine R.,Obligation Etat FR,Vente,323,21.5
+ORD1159,2026-06-21 11:51,Client_C,Sophie L.,Action LVMH,Vente,457,12.08
+ORD1160,2026-08-06 09:18,Client_B,Julien P.,OPCVM Obligataire EUR,Vente,473,18.38
+ORD1169,2026-06-14 17:47,Client_F,Julien P.,Action LVMH,Vente,289,42.16
+ORD1054,2026-07-07 11:17,Client_F,Sophie L.,Action Sanofi,Achat,80,140.06
+ORD1107,2026-06-29 18:12,Client_E,Julien P.,OPCVM Actions Europe,Achat,472,31.2
+ORD1086,2026-06-06 10:30,Client_H,Sophie L.,Action TotalEnergies,Vente,335,32.16
+ORD1059,2026-06-04 09:41,Client_G,Julien P.,Obligation Etat FR,Vente,103,98.05
+ORD1164,2026-06-20 16:46,Client_G,Marie D.,Obligation Etat FR,Vente,131,86.52
+ORD9002,2026-07-04 02:15,Client_D,Sophie L.,OPCVM Actions Europe,Vente,150,95.0
+ORD1138,2026-06-28 10:48,Client_E,Sophie L.,OPCVM Obligataire EUR,Achat,13,1076.72
+ORD1171,2026-06-06 13:59,Client_E,Antoine R.,Obligation Etat FR,Vente,139,82.12
+ORD1168,2026-07-20 13:16,Client_A,Sophie L.,Obligation Etat FR,Achat,186,125.08
+ORD1132,2026-08-11 08:38,Client_E,Marie D.,Action TotalEnergies,Vente,369,41.96
+ORD1067,2026-06-20 14:11,Client_E,Antoine R.,ETF MSCI World,Vente,432,35.43
+ORD1050,2026-07-20 15:25,Client_D,Julien P.,OPCVM Actions Europe,Achat,467,69.04
+ORD1068,2026-07-02 09:17,Client_H,Julien P.,Obligation Etat FR,Vente,301,33.2
+ORD1022,2026-06-25 11:34,Client_H,Julien P.,ETF MSCI World,Achat,152,62.03
+ORD1198,2026-07-17 08:25,Client_A,Julien P.,OPCVM Obligataire EUR,Vente,47,527.07
+ORD1044,2026-07-11 18:54,Client_B,Sophie L.,Action Sanofi,Vente,351,23.74
+ORD1162,2026-06-11 13:14,Client_A,Sophie L.,Action LVMH,Vente,415,53.68
+ORD1123,2026-07-09 15:41,Client_A,Marie D.,ETF MSCI World,Vente,228,122.3
+ORD1069,2026-06-04 15:54,Client_F,Julien P.,ETF MSCI World,Achat,191,76.31
+ORD1084,2026-07-27 09:29,Client_E,Antoine R.,OPCVM Obligataire EUR,Vente,234,49.83
+ORD1087,2026-07-15 14:21,Client_F,Marie D.,Obligation Etat FR,Achat,178,70.58
+ORD1010,2026-06-18 16:31,Client_B,Marie D.,Obligation Etat FR,Achat,88,103.28
+ORD1112,2026-08-14 14:52,Client_F,Marie D.,OPCVM Actions Europe,Achat,251,42.03
+ORD1115,2026-07-24 17:47,Client_C,Antoine R.,OPCVM Actions Europe,Achat,436,13.29
+ORD1111,2026-08-11 13:05,Client_G,Marie D.,OPCVM Obligataire EUR,Achat,242,48.21
+ORD1057,2026-08-09 17:57,Client_D,Antoine R.,Action TotalEnergies,Vente,233,125.02
+ORD1048,2026-06-11 12:32,Client_F,Marie D.,Obligation Etat FR,Achat,354,34.0
+ORD1153,2026-08-11 14:41,Client_F,Julien P.,OPCVM Actions Europe,Achat,340,40.92
+ORD1047,2026-07-12 15:28,Client_H,Julien P.,Action Sanofi,Vente,416,26.7
+ORD1053,2026-07-31 15:16,Client_D,Sophie L.,Obligation Etat FR,Vente,330,79.52
+ORD1121,2026-07-12 08:11,Client_E,Marie D.,Action TotalEnergies,Vente,279,42.46
+ORD1093,2026-07-20 11:58,Client_C,Marie D.,OPCVM Obligataire EUR,Vente,184,37.12
+ORD1082,2026-07-29 09:43,Client_D,Sophie L.,Obligation Etat FR,Achat,227,109.18
+ORD1124,2026-07-27 09:57,Client_B,Sophie L.,Action Sanofi,Achat,43,171.04
+ORD1154,2026-06-03 13:19,Client_C,Julien P.,OPCVM Obligataire EUR,Vente,108,47.99
+ORD1098,2026-06-20 09:30,Client_E,Sophie L.,Action Sanofi,Vente,342,34.09
+ORD1190,2026-06-04 15:56,Client_E,Sophie L.,ETF MSCI World,Achat,422,37.29
+ORD1158,2026-07-18 18:36,Client_H,Antoine R.,Obligation Etat FR,Vente,408,22.35
+ORD1073,2026-07-16 15:17,Client_E,Sophie L.,Action TotalEnergies,Achat,379,32.42
+ORD1008,2026-06-28 17:56,Client_F,Julien P.,OPCVM Actions Europe,Vente,212,70.89
+ORD9004,2026-07-21 11:00,Client_F,Antoine R.,Action Sanofi,Vente,200,90.0
+ORD1017,2026-07-10 14:42,Client_F,Antoine R.,Action Sanofi,Vente,71,164.94
+ORD1183,2026-06-23 13:32,Client_D,Marie D.,Action TotalEnergies,Achat,131,249.63
+ORD1016,2026-06-17 18:30,Client_C,Sophie L.,Action Sanofi,Vente,118,57.77
+ORD1088,2026-07-22 16:02,Client_H,Marie D.,OPCVM Obligataire EUR,Vente,175,46.29
+ORD1108,2026-07-27 08:37,Client_F,Julien P.,Action LVMH,Vente,177,80.87
+ORD1011,2026-06-09 14:24,Client_H,Sophie L.,Action Sanofi,Achat,358,29.1
+ORD1018,2026-06-03 17:35,Client_D,Julien P.,Action LVMH,Achat,372,82.89
+ORD1182,2026-07-11 18:22,Client_B,Sophie L.,OPCVM Obligataire EUR,Achat,374,25.06
+ORD1000,2026-06-14 18:47,Client_B,Antoine R.,Action LVMH,Achat,57,134.64
+ORD1065,2026-06-16 17:50,Client_A,Sophie L.,Action Sanofi,Vente,348,70.71
+ORD1101,2026-07-08 13:23,Client_G,Julien P.,Action TotalEnergies,Vente,299,44.18
+ORD1005,2026-06-13 14:17,Client_H,Sophie L.,Action TotalEnergies,Vente,191,44.29
+ORD1211,2026-07-05 16:44,Client_E,Julien P.,Action LVMH,Achat,134,85.78
+ORD1118,2026-06-03 08:50,Client_F,Julien P.,Action TotalEnergies,Achat,45,327.6
+ORD1143,2026-06-10 16:40,Client_B,Julien P.,Obligation Etat FR,Vente,189,49.92
+ORD1187,2026-06-22 10:20,Client_D,Sophie L.,Action Sanofi,Vente,443,55.0
+ORD1172,2026-07-07 13:55,Client_A,Sophie L.,OPCVM Obligataire EUR,Achat,419,58.67
+ORD1151,2026-07-13 09:21,Client_B,Antoine R.,OPCVM Obligataire EUR,Vente,380,25.96
+ORD1188,2026-08-10 12:08,Client_E,Marie D.,Action Sanofi,Achat,313,52.67
+ORD1131,2026-07-15 16:23,Client_B,Sophie L.,Action Sanofi,Achat,423,19.86
+ORD1033,2026-07-05 12:38,Client_D,Sophie L.,Action TotalEnergies,Vente,268,108.82
+ORD1192,2026-06-19 13:55,Client_F,Sophie L.,ETF MSCI World,Achat,399,30.95
+ORD1014,2026-08-07 08:38,Client_F,Antoine R.,Action LVMH,Achat,485,25.38
+ORD1203,2026-08-14 12:50,Client_A,Antoine R.,OPCVM Obligataire EUR,Achat,379,56.19
+ORD1130,2026-06-07 12:38,Client_E,Sophie L.,Action LVMH,Achat,89,167.31
+ORD1023,2026-08-10 09:03,Client_A,Marie D.,Obligation Etat FR,Achat,95,262.95
+ORD1125,2026-08-14 16:45,Client_F,Antoine R.,Action Sanofi,Vente,242,53.94
+ORD9005,2026-07-31 15:30,Client_G,Julien P.,ETF MSCI World,Achat,25000,45.0
+ORD1052,2026-07-30 18:33,Client_F,Antoine R.,Action Sanofi,Vente,435,34.81
+ORD1029,2026-07-11 11:16,Client_G,Julien P.,OPCVM Actions Europe,Vente,244,46.76
+ORD1113,2026-06-29 18:04,Client_H,Sophie L.,OPCVM Actions Europe,Vente,69,118.74
+ORD1133,2026-06-01 10:55,Client_C,Antoine R.,Action LVMH,Achat,389,15.76
+ORD1083,2026-06-20 12:52,Client_C,Marie D.,Action LVMH,Achat,415,12.94
+ORD1042,2026-06-14 17:27,Client_F,Sophie L.,ETF MSCI World,Achat,207,72.97
+ORD1038,2026-06-23 14:01,Client_C,Sophie L.,Obligation Etat FR,Vente,420,14.8
+ORD1184,2026-08-10 17:23,Client_H,Julien P.,Action Sanofi,Achat,43,205.62
+ORD9003,2026-07-16 10:00,Client_A,Marie D.,Obligation Etat FR,Achat,3000,210.0
+ORD1051,2026-06-29 10:51,Client_H,Marie D.,Action Sanofi,Achat,479,22.77
+ORD1129,2026-06-08 17:35,Client_F,Marie D.,ETF MSCI World,Vente,457,30.38
+ORD1186,2026-06-17 16:40,Client_C,Julien P.,ETF MSCI World,Achat,435,11.37
+ORD1215,2026-08-03 10:59,Client_E,Marie D.,Action LVMH,Vente,300,48.63
+ORD1028,2026-08-12 11:37,Client_A,Marie D.,ETF MSCI World,Vente,488,48.09
+ORD1144,2026-07-01 09:09,Client_E,Julien P.,Action TotalEnergies,Achat,399,38.76
+ORD1019,2026-06-05 13:04,Client_D,Sophie L.,OPCVM Actions Europe,Vente,119,250.07
+ORD1218,2026-06-23 17:54,Client_G,Antoine R.,Action Sanofi,Vente,54,218.99
+ORD1135,2026-06-11 08:09,Client_C,Marie D.,OPCVM Actions Europe,Achat,149,38.17
+ORD1114,2026-08-03 09:06,Client_D,Julien P.,ETF MSCI World,Vente,199,157.27
+ORD1134,2026-08-07 11:24,Client_G,Antoine R.,OPCVM Obligataire EUR,Achat,199,57.22
+ORD1020,2026-07-31 11:50,Client_H,Antoine R.,Action TotalEnergies,Achat,59,172.55
+ORD1152,2026-07-13 09:37,Client_C,Sophie L.,OPCVM Obligataire EUR,Vente,76,79.48
+ORD1174,2026-06-11 14:05,Client_G,Julien P.,Action Sanofi,Vente,174,59.52
+ORD1063,2026-07-03 13:10,Client_B,Julien P.,OPCVM Obligataire EUR,Achat,306,22.9
+ORD1055,2026-06-20 11:04,Client_G,Antoine R.,OPCVM Obligataire EUR,Vente,222,45.76
+ORD1214,2026-06-08 09:41,Client_D,Marie D.,Action TotalEnergies,Vente,461,72.14
+ORD1137,2026-08-02 16:42,Client_E,Marie D.,Action TotalEnergies,Vente,316,36.45
+ORD1120,2026-06-19 10:34,Client_E,Julien P.,Action LVMH,Achat,77,146.66
+ORD1140,2026-07-29 09:55,Client_F,Antoine R.,Action Sanofi,Vente,373,36.87
+ORD1179,2026-08-07 13:25,Client_F,Sophie L.,Action TotalEnergies,Achat,23,619.64
+ORD1106,2026-07-06 08:36,Client_A,Antoine R.,Obligation Etat FR,Vente,407,71.39
+ORD1095,2026-08-10 16:24,Client_H,Sophie L.,Obligation Etat FR,Achat,367,23.36
+ORD1155,2026-06-10 12:54,Client_B,Marie D.,OPCVM Actions Europe,Vente,458,20.89
+ORD1191,2026-07-29 09:44,Client_A,Julien P.,ETF MSCI World,Vente,257,99.54
+ORD1116,2026-06-05 13:13,Client_H,Antoine R.,Action TotalEnergies,Vente,60,190.22
+ORD1039,2026-06-21 09:24,Client_A,Antoine R.,Action TotalEnergies,Achat,428,70.78
+ORD1122,2026-07-28 13:32,Client_B,Antoine R.,Action Sanofi,Achat,494,18.31
+ORD1034,2026-07-25 12:02,Client_A,Sophie L.,Obligation Etat FR,Achat,336,92.06
+ORD1205,2026-06-25 08:28,Client_F,Antoine R.,Action TotalEnergies,Vente,363,31.63
+ORD1056,2026-08-14 08:54,Client_G,Antoine R.,Action LVMH,Vente,162,83.72
+ORD1157,2026-07-01 15:39,Client_E,Antoine R.,Action TotalEnergies,Achat,168,98.94
+ORD1094,2026-06-01 12:46,Client_E,Antoine R.,Obligation Etat FR,Achat,238,59.78
+ORD1075,2026-07-17 10:19,Client_A,Julien P.,OPCVM Obligataire EUR,Achat,37,716.38
+ORD1163,2026-07-31 10:48,Client_H,Antoine R.,Action Sanofi,Achat,473,16.83
+ORD1213,2026-08-10 10:26,Client_H,Antoine R.,OPCVM Actions Europe,Achat,397,28.58
+ORD1176,2026-07-26 12:40,Client_A,Marie D.,OPCVM Actions Europe,Vente,196,133.1
+ORD1079,2026-08-06 14:28,Client_H,Sophie L.,Obligation Etat FR,Vente,166,59.25
+ORD1197,2026-07-31 12:34,Client_A,Marie D.,ETF MSCI World,Achat,461,50.99
+ORD1180,2026-07-20 16:07,Client_E,Sophie L.,OPCVM Actions Europe,Vente,119,141.13
+ORD1128,2026-06-09 09:53,Client_B,Marie D.,ETF MSCI World,Achat,391,24.23
+ORD1175,2026-07-08 12:28,Client_G,Julien P.,OPCVM Actions Europe,Vente,189,63.78
+ORD1103,2026-07-03 18:00,Client_H,Sophie L.,OPCVM Actions Europe,Achat,47,198.91
+ORD1040,2026-06-30 11:01,Client_D,Antoine R.,OPCVM Obligataire EUR,Vente,452,53.66
+ORD1078,2026-06-20 17:19,Client_B,Julien P.,Action LVMH,Vente,320,28.06
+ORD1119,2026-08-15 11:52,Client_D,Sophie L.,Obligation Etat FR,Achat,413,82.31
+ORD1030,2026-07-29 17:36,Client_B,Marie D.,Action Sanofi,Achat,269,29.13
+ORD1170,2026-07-30 15:40,Client_C,Julien P.,Action LVMH,Vente,28,190.65
+ORD1015,2026-06-08 11:56,Client_B,Marie D.,OPCVM Actions Europe,Vente,427,16.76
+ORD1060,2026-06-28 15:20,Client_F,Antoine R.,OPCVM Obligataire EUR,Vente,139,106.25
+ORD1177,2026-06-04 10:54,Client_H,Marie D.,Action TotalEnergies,Achat,130,81.83
+ORD1092,2026-06-20 15:59,Client_E,Sophie L.,ETF MSCI World,Vente,251,50.1
+ORD1167,2026-06-24 18:42,Client_B,Sophie L.,Action LVMH,Achat,209,47.56
+ORD1066,2026-07-14 08:54,Client_G,Antoine R.,Action LVMH,Vente,195,66.57
+ORD1002,2026-07-25 13:17,Client_C,Julien P.,Obligation Etat FR,Vente,62,78.57
+ORD1146,2026-07-09 12:37,Client_A,Sophie L.,Action Sanofi,Achat,168,152.11
+ORD1185,2026-07-23 14:52,Client_B,Julien P.,OPCVM Obligataire EUR,Achat,240,35.54
+ORD1149,2026-06-11 16:41,Client_C,Marie D.,Action TotalEnergies,Vente,234,25.11
+ORD1077,2026-08-01 09:52,Client_B,Antoine R.,ETF MSCI World,Achat,305,29.82
